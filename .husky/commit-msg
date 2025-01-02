@@ -1,0 +1,2 @@
+echo "COMMIT_MSG"
+bun commitlint --edit $1
