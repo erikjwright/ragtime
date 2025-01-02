@@ -1,0 +1,3 @@
+# RAGTime
+
+## RAG implementation
